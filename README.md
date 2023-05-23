@@ -33,11 +33,12 @@ You will also need to have the Chrome web browser and the corresponding ChromeDr
 Usage
 Open a terminal and navigate to the cloned repository:
 
-``bash
+``
 cd your-repository  ``
 
 Run the Python script:
 
-``bash
+``
 python geocoding_script.py  ``
+
 The script will scrape the website, extract the addresses, geocode them, and update the latitude and longitude values in the DataFrame.
