@@ -25,7 +25,7 @@ You will also need to have the Chrome web browser and the corresponding ChromeDr
    
 2. Install the required Python dependencies:  
 
-pip install -r requirements.txt
+ ``` pip install -r requirements.txt   ```
 
 3. Obtain a Google Maps API key by following the instructions [here.([url](https://developers.google.com/maps/documentation/geocoding/get-api-key))]
 4. Replace the placeholder 'YOUR API KEY' in the code with your actual Google Maps API key.
