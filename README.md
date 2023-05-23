@@ -33,12 +33,11 @@ pip install -r requirements.txt
 Usage
 Open a terminal and navigate to the cloned repository:
 
-bash
-Copy code
-cd your-repository
+``bash
+cd your-repository  ``
+
 Run the Python script:
 
-bash
-Copy code
-python geocoding_script.py
+``bash
+python geocoding_script.py  ``
 The script will scrape the website, extract the addresses, geocode them, and update the latitude and longitude values in the DataFrame.
