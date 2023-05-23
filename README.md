@@ -29,3 +29,16 @@ pip install -r requirements.txt
 
 3. Obtain a Google Maps API key by following the instructions [here.([url](https://developers.google.com/maps/documentation/geocoding/get-api-key))]
 4. Replace the placeholder 'YOUR API KEY' in the code with your actual Google Maps API key.
+
+Usage
+Open a terminal and navigate to the cloned repository:
+
+bash
+Copy code
+cd your-repository
+Run the Python script:
+
+bash
+Copy code
+python geocoding_script.py
+The script will scrape the website, extract the addresses, geocode them, and update the latitude and longitude values in the DataFrame.
