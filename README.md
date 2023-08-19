@@ -21,7 +21,7 @@ You will also need to have the Chrome web browser and the corresponding ChromeDr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/kaluka/Geocoding_with_Selenium_and_Google_Maps.git
    
 2. Install the required Python dependencies:  
 
